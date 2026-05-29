@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 800" role="img" aria-labelledby="title desc">
+  <title id="title">個人頭像插圖</title>
+  <desc id="desc">簡潔的個人網頁頭像插圖，可替換為真實照片。</desc>
+  <rect width="640" height="800" fill="#dceade"/>
+  <circle cx="520" cy="152" r="88" fill="#d9b44a"/>
+  <path fill="#2f6f58" d="M0 612c104-76 203-91 297-46 107 51 221 32 343-58v292H0z"/>
+  <path fill="#cc725c" d="M70 189c40-52 89-80 147-84 74-6 132 29 176 105 33 57 87 88 162 93-42 49-94 75-155 79-75 5-132-29-172-102-36-65-88-95-158-91z"/>
+  <circle cx="320" cy="316" r="112" fill="#17211f"/>
+  <circle cx="320" cy="300" r="94" fill="#f5d3bd"/>
+  <path fill="#17211f" d="M213 293c14-88 70-133 169-135 66 28 103 75 111 142-56-5-105-25-147-60-30 34-75 52-133 53z"/>
+  <path fill="#f5d3bd" d="M239 371h162l22 127H217z"/>
+  <path fill="#fbfaf6" d="M157 508c27-67 83-101 166-101 82 0 136 34 161 101l54 174H103z"/>
+  <path fill="#17211f" d="M246 508h148l-42 174h-65z"/>
+  <circle cx="286" cy="312" r="9" fill="#17211f"/>
+  <circle cx="354" cy="312" r="9" fill="#17211f"/>
+  <path fill="none" stroke="#17211f" stroke-linecap="round" stroke-width="10" d="M292 364c21 18 44 18 66 0"/>
+</svg>
